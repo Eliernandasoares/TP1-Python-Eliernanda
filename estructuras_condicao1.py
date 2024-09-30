@@ -1,4 +1,4 @@
-#Primera parte del ejercicio 1
+
 temperatura= 31
 if temperatura < 30:
     print ("A temperatura hoje está amena")
